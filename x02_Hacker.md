@@ -1,6 +1,6 @@
 # The Hacker - Level 02
 
-First of all, congrats on getting this far; you can now successfully hack something. You must understand by this time that learning never ends and that you still have to learn more before you can describe yourself as a professional. If you do not comprehend the technologies, processes, vulnerabilities, and security solutions stated in the [[x01_Newbie]]'s path, you should not be in this level.
+First of all, congrats on getting this far; you can now successfully hack something. You must understand by this time that learning never ends and that you still have to learn more before you can describe yourself as a professional. If you do not comprehend the technologies, processes, vulnerabilities, and security solutions stated in the [x01_Newbie](https://github.com/0xCybercreed/The-Hacking-Roadmap/blob/main/x01_Newbie.md)'s path, you should not be in this level.
 
 This is the last section of the road map, and it focuses on the more sophisticated information you need to know to identify yourself as a professional.
 
