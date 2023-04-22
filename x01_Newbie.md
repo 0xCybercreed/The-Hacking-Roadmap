@@ -1,8 +1,8 @@
 # The Newbie - Level 01
 
-So finally you are here. I guess you had gone throw the list in x00_Beginner. After looking at it you might think! I already know all that, how boring. To be completely honest, I used to think the same way, but I encourage you to read everything again because there may come a time when you'll wish you'd studied it as well. By the time that happens, it will be too late, so it's better to be safe than sorry. Go, move quickly!
+So finally you are here. I guess you had gone throw the list in [x00_Beginner](https://github.com/0xCybercreed/The-Hacking-Roadmap/blob/main/x00_Beginner.md). After looking at it you might think! I already know all that, how boring. To be completely honest, I used to think the same way, but I encourage you to read everything again because there may come a time when you'll wish you'd studied it as well. By the time that happens, it will be too late, so it's better to be safe than sorry. Go, move quickly!
 
-Okay, by this point I'm assuming you've read the prerequisite information I provided in [[x00_Beginner]]. Now that you're ready to improve your talents and don't want to read those tedious articles any longer, don't worry; I've got you covered. Let's get our hands dirty with some actual work. Let's begin!
+Okay, by this point I'm assuming you've read the prerequisite information I provided in [x00_Beginner](https://github.com/0xCybercreed/The-Hacking-Roadmap/blob/main/x00_Beginner.md). Now that you're ready to improve your talents and don't want to read those tedious articles any longer, don't worry; I've got you covered. Let's get our hands dirty with some actual work. Let's begin!
 
 ______________________________________________________________
 
