@@ -1,10 +1,10 @@
-x00_Beginner
+[x00_Beginner](https://github.com/0xCybercreed/The-Hacking-Roadmap/blob/main/x00_Beginner.md)
 * You really want to get in cyber security but are unsure how to start with your current knowledge.
 - Most technical things you've done are operating system installations, game installations, virus scans, and putting together a computer from scratch.
 - You don't understand how things work in the backend.
 - You don't have any idea where you stand in this journey then this is for you.
 
-x01_Newbie
+[x01_Newbie](https://github.com/0xCybercreed/The-Hacking-Roadmap/blob/main/x01_Newbie.md)
 * You already know how things work in backend, you can assembel a pc, troubleshoot network related problems and can understand how things are interacting.
 * **Start here if you are not yet a penetration tester!**
 * You might understand a little bit about the Linux CLI, basic BASH Scripting, etc.
@@ -12,7 +12,7 @@ x01_Newbie
 - Understands the CIA Triad, generally understands the differences between encryption, hashing, and encoding.
 - If you know little about all these things then you are ready to go.
 
-x02_Hacker
+[x02_Hacker](https://github.com/0xCybercreed/The-Hacking-Roadmap/blob/main/x02_Hacker.md)
 * Understands the OWASP Top 10 and probably recently learned about CORS, OOB-XXE, JWT bugs, Cache Poisoning, OAuth2, and NoSQL Databases.
 * Can do basic code review, but will likely struggle to find more granular vulnerabilities that require fuzzing and advanced debugging.
 * Can build basic tools with Sockets, Regular Expressions, Web Scrapping Libraries, etc.
